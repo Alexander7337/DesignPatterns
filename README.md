@@ -1,2 +1,2 @@
 # DesignPatterns
-Short implementation of some of the Design Patterns.
+Short implementation of a few Design Patterns.
